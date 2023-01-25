@@ -205,7 +205,7 @@ The Wiki pages cover almost every aspect of the game mechanics, and supply a ric
 ## Reddit Database
 <p style="margin-top: -16px"><a href="https://colab.research.google.com/drive/1zZbRVfpyl7zteb74PRVeEbozj7hbbixi#scrollTo=_zagI0pheWTN">  <img src="https://colab.research.google.com/assets/colab-badge.svg" style="width:117px" alt="Open In Colab"/></a> <a href="https://doi.org/10.5281/zenodo.6641114" style="border-bottom: none" target="_blank"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6641114.svg" style="width:200px"></a></p>
 
-**We collect 340K+ Reddit posts along with 6.6M comments under the “r/Minecraft” subreddit.** These posts ask questions on how to solve certain tasks, showcase cool architectures and achievements in image/video snippets, and discuss general tips and tricks for players of all expertise levels. Large language models can be finetuned on our Reddit corpus to internalize Minecraft-specific concepts and develop sophisticated strategies. Please refer to the [doc page](https://docs.minedojo.org/sections/getting_started/data.html#reddit-database) for how to load our Reddit database.
+**We collect 340K+ Reddit posts along with 6.6M comments under the "r/Minecraft" subreddit.** These posts ask questions on how to solve certain tasks, showcase cool architectures and achievements in image/video snippets, and discuss general tips and tricks for players of all expertise levels. Large language models can be finetuned on our Reddit corpus to internalize Minecraft-specific concepts and develop sophisticated strategies. Please refer to the [doc page](https://docs.minedojo.org/sections/getting_started/data.html#reddit-database) for how to load our Reddit database.
 
 
 # Check out our paper! 
