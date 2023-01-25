@@ -64,13 +64,13 @@ pip install -e .
 You can run the script below to verify the installation. It takes a while to compile the Java code for the first time. After that you should see a Minecraft window pop up, with the same gaming interface that human players receive. You should see the message `[INFO] Installation Success` if everything goes well.
 
 ```bash
-python minedojo/scripts/validate_install.py
+python scripts/validate_install.py
 ```
 
 Note that if you are on a headless machine, don't forget to prepend either `xvfb-run` or `MINEDOJO_HEADLESS=1`:
 
 ```bash
-xvfb-run python minedojo/scripts/validate_install.py
+xvfb-run python scripts/validate_install.py
 # --- OR ---
 MINEDOJO_HEADLESS=1 python minedojo/scripts/validate_install.py
 ```
